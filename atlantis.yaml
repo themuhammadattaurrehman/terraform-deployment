@@ -1,5 +1,5 @@
 version: 3
 projects:
-  - name: your-project-name
+  - name: terraform-deployment
     dir: .
     workflow: default
