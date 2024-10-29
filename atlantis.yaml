@@ -1,0 +1,5 @@
+version: 3
+projects:
+  - name: your-project-name
+    dir: .
+    workflow: default
